@@ -1,0 +1,38 @@
+[
+    {
+        "driverLicenseRequired": false,
+        "requiredCertificates": [
+            "The Encouraging Word Award"
+        ],
+        "location": {
+            "longitude": 13.603433,
+            "latitude": 50.021556
+        },
+        "billRate": "$5.16",
+        "workersRequired": 3,
+        "startDate": "2015-11-26T22:03:20.397Z",
+        "about": "Enim consequat sit minim consequat labore ipsum exercitation amet adipisicing duis nulla. Aute elit ullamco fugiat laborum cupidatat ipsum nisi est cillum ipsum pariatur anim. Sunt officia deserunt dolore fugiat aute consectetur laborum ex et veniam dolore et fugiat.",
+        "jobTitle": "Chief Cheerleader",
+        "company": "Isoswitch",
+        "guid": "562f66aaa780e07099bff50c",
+        "jobId": 2
+    },
+    {
+        "driverLicenseRequired": false,
+        "requiredCertificates": [
+            "Excellence in Organization"
+        ],
+        "location": {
+            "longitude": 13.830978,
+            "latitude": 50.138855
+        },
+        "billRate": "$5.17",
+        "workersRequired": 4,
+        "startDate": "2015-11-17T05:58:41.285Z",
+        "about": "Nostrud reprehenderit Lorem eiusmod voluptate ex dolor enim ullamco aliquip. Nostrud exercitation fugiat esse enim officia ad aliqua reprehenderit. Aliqua dolore elit esse incididunt ut.",
+        "jobTitle": "Chief Cheerleader",
+        "company": "Telequiet",
+        "guid": "562f66aa451613fa23131a47",
+        "jobId": 22
+    }
+]
